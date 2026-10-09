@@ -1,14 +1,14 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
-  "name": "scaccogatto",
+  "name": "open-knowledge-plugin-marketplace",
   "description": "Claude Code plugins by scaccogatto.",
   "owner": {
-    "name": "Marco Boffo",
-    "email": "chat@marcoboffo.me"
+    "name": "skogix",
+    "email": "emil@skogsund.se"
   },
   "plugins": [
     {
-      "name": "okf",
+      "name": "open-knowledge-plugin",
       "source": "./",
       "description": "Author, maintain, backfill, validate, visualize and serve (MCP) Open Knowledge Format (OKF) bundles.",
       "category": "documentation",
